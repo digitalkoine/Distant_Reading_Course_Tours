@@ -1,0 +1,4 @@
+cmd/tree-tagger-french in.txt >out.txt 
+cmd/tree-tagger-italian in.txt >out.txt 
+cmd/tree-tagger-english in.txt >out.txt 
+cmd/tree-tagger-spanish in.txt >out.txt 

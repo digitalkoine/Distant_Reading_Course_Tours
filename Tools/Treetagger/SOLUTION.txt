@@ -1,0 +1,1 @@
+cmd/tree-tagger-french in.txt >out.txt 
